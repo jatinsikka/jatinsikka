@@ -23,7 +23,7 @@ things I'm actually shipping:
 
 - **[FocusOS](https://github.com/jatinsikka/Focus-OS)** — productivity OS: pomodoro, mood tracking, Spotify, Notion. built for how my brain works
 - **[SubletSync](https://github.com/jatinsikka/SubletSync)** — sublease management app
-- **[SikVault](https://github.com/jatinsikka/sikvault)** — personal vault
+- **[Undoom.It](https://undoom-it.vercel.app)** — capture anything → AI digest → daily email. make doomscrolling productive
 - **[Suman Tools](https://github.com/jatinsikka/suman_tools)** — custom tools built for my dad's business
 - **[Trading Agent](https://github.com/jatinsikka/trading-agent)** — AI-powered trading system
 
